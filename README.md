@@ -1,1 +1,1 @@
-# zabbix-mibs
+# SNMP MIBs
